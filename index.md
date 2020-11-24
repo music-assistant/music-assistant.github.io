@@ -16,8 +16,11 @@ The current state is BETA (for technical enthousiasts only) but an official, sta
 - Support for rich metadata using metadata providers like Fanart.tv.
 - Currently supported music providers: Local files, Spotify, Qobuz, Tune-In.
 - Currently supported player providers: Sonos, Chromecast, Squeezebox (compatible) players.
-- Very fast while consuming little resources. The server even runs on a raspberry Pi. 
+- Very fast while consuming little resources. The server even runs on a raspberry Pi.
+- Support for gapless and crossfade playback to all players, including Chromecast.
 - [Home Assistant integration](https://github.com/music-assistant/hass-integration).
+- Open Source
+
 
 
 **Music Assistant Server** 
@@ -27,15 +30,22 @@ At this moment (beta phase) a [docker image](https://hub.docker.com/repository/d
 While working towards official release, more installation options will become available.
 
 
+
+
 **Music Assistant Apps**
 
 The Music Assistant frontend is created in Vue and is/will be available as both webapp and native apps.
 The webversion of the frontend is included in the server.
 
 
+
+
 ### Please stay tuned!
 If you're willing to give the beta version a try, go ahead and grab the docker or Home Assistant addon.
 Keep an eye on the info page about the release of the official/final first version!
+
+
+
 
 ### Screenshots
 
@@ -44,8 +54,13 @@ Keep an eye on the info page about the release of the official/final first versi
 
 ![Image](images/screenshot2.png)
 
+
 ![Image](images/screenshot3.png)
+
 
 ![Image](images/screenshot4.png)
 
+
 ![Image](images/screenshot5.png)
+
+
