@@ -39,4 +39,4 @@ Keep an eye on the info page about the release of the official/final first versi
 
 ### Screenshots
 
-![Image](src)
+![Image](images/screenshot1.png)
