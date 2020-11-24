@@ -64,3 +64,9 @@ Keep an eye on the info page about the release of the official/final first versi
 ![Image](images/screenshot5.png)
 
 
+![Image](images/screenshot6.png)
+
+
+![Image](images/screenshot7.png)
+
+
