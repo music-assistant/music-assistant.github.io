@@ -40,3 +40,12 @@ Keep an eye on the info page about the release of the official/final first versi
 ### Screenshots
 
 ![Image](images/screenshot1.png)
+
+
+![Image](images/screenshot2.png)
+
+![Image](images/screenshot3.png)
+
+![Image](images/screenshot4.png)
+
+![Image](images/screenshot5.png)
