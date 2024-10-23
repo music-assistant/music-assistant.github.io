@@ -9,17 +9,9 @@
 
 The Music Assistant HA Integration provides a connection between MA and HA. This means that MA players are visible in HA and can be controlled via the HA UI or via automations or scripts. 
 
-HA media player entities, which are not natively available in MA, can be exposed to MA as well to allow playback on those devices.
+HA media player entities, which are not natively available in MA, can be exposed to MA to allow playback on those devices.
 
-Announcements are supported with the following features:
-
-- If music is playing this will be temporarily paused and restored after the announcement
-- Players will be powered on before the announcement and then off again if it was not powered/active before the announcement
-- Volume can be increased while playing the announcement
-- If a player type has native support for announcements (e.g. Sonos) then that will be used in preference to the MA functionality providing an even smoother experience
-- Works with all players that are supported by Music Assistant
-- For TTS (Text to Speech) announcements, support is provided for prepending it with a "pre announcement sound". This sound can be enabled/disabled in the HA integration options
-- Each player has settings which allow for adjustment of certain aspects of the announcement playback
+[Announcements](announcements.md) from HA in the form of Text to Speech or audio files are fully supported.
 
 With some additional setup voice control of MA via HA is also possible.
 
