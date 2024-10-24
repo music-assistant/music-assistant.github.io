@@ -16,3 +16,4 @@ Music Assistant has full support for Google Cast based devices. This includes Go
 - After re-enabling a disabled speaker, it can take a while before the speaker is rediscovered, the process can be sped up by restarting Music Assistant
 - It is not possible to group/sync cast players from within the MA interface (simply because an api does not exist for that)
 - TV/Video devices (not the AV dongles) are disabled by default
+- Cast Groups containing only a stereo pair will not work

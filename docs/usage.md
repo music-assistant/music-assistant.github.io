@@ -54,9 +54,11 @@ Transferring the queue will also transfer the shuffle and repeat setting to the 
 
 ![Preview image](assets/screenshots/queue3.png)
 
+The Don't Stop The Music (DSTM) option will be shown if a provider is available which supports dynamic tracks (e.g Spotify, YTM, Apple and Tidal). When DSTM is on, radio mode will be automatically enabled when the last track of the queue is reached and if any dynamic tracks can be resolved from one of the providers. The added tracks will be based on the played items in the queue.
+
 !!! note
     If a queue is paused for more than 30 seconds it's status will change to stopped 
-    
+
 ## Playlists
 
 Playlists must be stored on a provider. A music provider's playlist can only contain tracks from that provider. However, MA has a built-in provider with the ability to create playlists that have tracks from multiple music providers. In this case the playlist will be stored solely within the MA database. These options are automtically presented in the Add to Playlist dialog.
