@@ -1,8 +1,6 @@
-![Beta](../assets/beta-testing.png){ width=1000 align=center }
-
 # Bluesound ![Preview image](../assets/icons/bluesound-logo.png){ width=70 align=right }
 
-Music Assistant has support for [Bluesound](https://www.bluesound.com/) (BlueOS) based devices and is available in 2.3.0 beta 21 and later. This component is contributed and maintained by [Cyanogenbot](https://github.com/Cyanogenbot).
+Music Assistant has support for [Bluesound](https://www.bluesound.com/) (BlueOS) based devices. This component is contributed and maintained by [Cyanogenbot](https://github.com/Cyanogenbot).
 
 ## Features
 
@@ -16,5 +14,3 @@ Music Assistant has support for [Bluesound](https://www.bluesound.com/) (BlueOS)
 
 - Announcements
 - Synchronised playback
-
-![Beta](../assets/beta-testing.png){ width=1000 align=center }
