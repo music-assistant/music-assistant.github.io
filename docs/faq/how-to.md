@@ -15,9 +15,9 @@ More details [here](normalization.md)
 
 # Have my music continue if I change rooms
 
-Start streaming to a group that includes all the rooms you will move between. Power off or mute all the rooms except the one you are in. When you move rooms just power (or mute) on and off the respective rooms. Depending on the complexity of your setup you may need to use nested groups of speakers.
-
-You can read, ask or contribute [on this topic](https://github.com/orgs/music-assistant/discussions/702)
+There are two options.
+1. Start streaming to any type of group that includes all the rooms you will move between. Mute all the rooms except the one you are in. When you move rooms just mute and unmute the required players.
+2. Use a Sync Group with the dynamic members option turned on, or a Manual Sync group. As you change rooms then join the new room to the existing group. What to do with the other players in the group depends upon the group type and whether the player is the group leader (Sync Group) or holds the queue (Manual Sync). The options are unjoining the player from the group or muting it. For more information read up on [Groups](groups.md) 
 
 # Shuffle Spotify/playlist/Youtube etc
 
