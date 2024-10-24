@@ -1,5 +1,3 @@
-![Beta](../assets/beta-testing.png){ width=1000 align=center }
-
 # SiriusXM Provider ![Preview image](../assets/icons/siriusxm-logo.png){ width=70 align=right }
 
 Music Assistant has support for streaming live radio stations from SiriusXM. Contributed and maintained by [btoconnor](https://github.com/btoconnor)
@@ -22,5 +20,3 @@ Radio stations favorited on SiriusXM are not reflected in Music Assistant. The s
 ## Not Yet Supported
 
 On Demand Content
-
-![Beta](../assets/beta-testing.png){ width=1000 align=center }
