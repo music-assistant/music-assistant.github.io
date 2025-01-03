@@ -11,7 +11,7 @@ For specific player provider information refer to the relevant section in this d
 
 If a device supports multiple protocols then multiple players for the device will be seen. In the player provider settings you can disable or hide any players you do not use. 
 
-Players can only deleted if they are unavailable or disabled. Deleting a player can be useful if there is a problem with it. Deleted players which become or are still available will get rediscovered and will return to the list on MA restart or player provider reload.
+Players can only be deleted if they are unavailable or disabled. Deleting a player can be useful if there is a problem with it. Deleted players which become or are still available will get rediscovered and will return to the list on MA restart or player provider reload.
 
 ![Preview image](../assets/screenshots/player-disable.png){ width = 600 } 
 
