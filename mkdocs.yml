@@ -23,6 +23,8 @@ nav:
     - General: usage.md
     - UI: ui.md
     - Groups: faq/groups.md
+    - DSP Parametric EQ: dsp/parametriceq.md
+    - DSP Tone Controls: dsp/tonecontrols.md
     - How Do I...: faq/how-to.md
     - I Want To Stream To: faq/stream-to.md
     - Technical Info: faq/tech-info.md
